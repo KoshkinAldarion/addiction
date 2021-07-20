@@ -1,0 +1,249 @@
+.menu {
+    text-align: center;
+    position: fixed;
+    top:0;
+    margin: 0 auto;
+    width: 100%;
+    background-color: white;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+    width: 100px;
+    display: inline-block;
+}
+
+.link:hover {
+    background-color: chartreuse;
+}
+
+.header {
+    background-image: url(pic/polygons.png);
+    padding: 200px 0px;
+    text-align: center;
+    color: white;
+    background-position: top center;
+    background-repeat: no-repeat;
+    margin-top: 50px;
+    background-attachment: fixed;
+}
+
+.button {
+    border-radius: 12px;
+    height: 50px;
+    width: 150px;
+}
+
+.button:hover {
+    opacity: 0.5
+}
+
+.kompany img {
+    width: 400px;
+    float: right;
+    margin: 30px;
+    margin-top: 0;
+}
+
+.kompany {
+    max-width:1200px ;
+    padding: 40px 0px;
+    margin: auto;
+}
+
+.kompany p {
+    text-align: justify;
+}
+
+.kompany h1 {
+    text-align: center;
+}
+
+.men {
+    display: inline-block;
+    width: 20%;
+    border-width: 2px;
+    border-color: gray;
+    border-style: solid;
+    box-shadow: 3px 7px 7px gray;
+    padding: 10px;
+    min-width:300px;
+}
+
+.men img {
+    width: 100%;
+}
+
+.BOSS {
+    opacity: 0.5;
+    height: 33px;
+}
+
+.men button {
+    width: 100%;
+    border-radius: 10px;
+    background-color: #055b73;
+    padding: 10px 0px;
+    color: white
+}
+
+.tim h1,
+h4 {
+    text-align: center
+}
+
+.tim {
+    text-align: center
+}
+
+.men button:hover {
+    background-color: transparent;
+    color: #055b73;
+    border-color: #055b73;
+    cursor: pointer
+}
+
+.adout {
+    height: 85px;
+}
+
+.men h3 {
+    height: 65px
+}
+
+.tarif li {
+    list-style: none;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: gray;
+    padding: 16px 0px;
+}
+
+.tarif .name {
+    background-color: black;
+    font-size: 24px;
+    color: white;
+    padding: 32px 0px;
+    text-align: center
+}
+
+.tarif .pro {
+    background-color: #055b73;
+    padding: 48px 0px;
+    text-align: center
+}
+
+.tarif {
+    display: inline-block;
+    width: 30%;
+    margin: 10px;
+    padding: 0px;
+    background-color: white;
+    vertical-align: middle;
+    min-width:300px ;
+}
+
+.tarif li:last-child {
+    background-color: #f1f1f1;
+    padding: 24px 0px;
+}
+
+.tarif a {
+    background-color: black;
+    color: white;
+    padding: 12px 24px;
+    text-decoration: none;
+}
+
+.tarif a:hover {
+    background-color: white;
+    color: black;
+}
+
+.prases {
+    background-color: #616161;
+    text-align: center;
+    padding: 50px 0;
+}
+
+.span {
+    font-weight: bold
+}
+
+.prase {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.day {
+    opacity: 0.5
+}
+
+.lol {
+    color: white
+}
+.kontakts{
+background-color:#f1f1f1;
+    text-align: center;
+    padding: 40px 0px;
+}
+.City{
+   
+    background-image:url(pic/address.png);
+background-repeat: no-repeat 
+}    
+.telefon{
+
+    background-image:url(pic/phone.png);
+background-repeat: no-repeat 
+}   
+.Email{
+   
+background-image:url(pic/mail.png);
+background-repeat: no-repeat    
+}    
+.info{
+background-size: 18px;    
+ background-position:left center;
+margin-left:5%;   
+text-align: left;
+    padding-left: 30px;
+}
+.kontakts input{
+width: 90%;    
+padding: 5px;     
+    
+}
+.kontakts button{
+color:white;
+ background-color: black;
+    border-radius: 10px;
+    padding: 10px;
+}
+.kontakts button:hover{
+  color:black;
+ background-color: white;
+  cursor: pointer;
+    
+}
+.paloska{
+background-color: black;
+color:white;   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
